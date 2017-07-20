@@ -132,6 +132,15 @@ a:visited {
   display: block;
   height: 400px;
 }
+
+#takia-rudolph-cover {
+  background-image: url("http://i.imgur.com/meqt9oV.jpg");
+}
+
+#takia-rudolph-card {
+  background-image: url("http://i.imgur.com/0jz76cZ.jpg");
+}
+
 #aly-alidina-cover {
     background-image: url("http://imgur.com/ucFtuBt.jpg");
 }
